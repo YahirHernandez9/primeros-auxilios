@@ -1,0 +1,8 @@
+{
+  "name": "Primeros Auxilios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "3bfe246e"
+}
